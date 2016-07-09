@@ -11,7 +11,7 @@ High performance ESB (enterprise service bus) with OPC UA: Masstransit, RabbitMQ
 - Enabling the RabbitMQ Web Management Interface:
   In cmd, let's enter: rabbitmq-plugins enable rabbitmq_management
   then type: services.msc, finding RabbitMQ service to restart it.
-- Now go to: http://localhost:15672/ then you will see the RabiitMQ interface
+- Now go to: http://localhost:15672/ then you will see the RabbitMQ web interface
 2.2 Running Publisher in OPC Server
 3. Others:
 
