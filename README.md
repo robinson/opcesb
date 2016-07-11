@@ -50,9 +50,9 @@ Copy the "%TEMP%\OPC Foundation" folder into the "LocalState" folder of the path
 
 - Press the "Publish" button and the application will start publishing the nodes JSON encoded data to RabbitMQ.
 
-
-7. Subscriber Data
-- You have run OPC Server and OPC Publisher. Now it the time to subscriber data from RabbitMQ. Let’s start OpcEsb.Subscriber, then enter a subscriber name, so you will see the data from Opc server.
+------------------------------------------------------------------------------------
+* Subscriber Data: 
+* You have run OPC Server and OPC Publisher. Now it the time to subscriber data from RabbitMQ. Let’s start OpcEsb.Subscriber, then enter a subscriber name, so you will see the data from Opc server.
 Enjoy it!
 
 
