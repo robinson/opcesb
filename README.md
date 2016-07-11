@@ -2,8 +2,8 @@
 High performance ESB (enterprise service bus) with OPC UA: Masstransit, RabbitMQ and OPC UA. This is also a Demo OPC UA Pub/Sub and using MassTransit as relay gateway/bridge to receive message from OPC UA Client. 
 
 1. Installing Masstransit & RabbitMQ
-+ Install Erlang: http://www.erlang.org/download.html
-+ Then download and install http://www.rabbitmq.com/download.html
+* Install Erlang: http://www.erlang.org/download.html
+* Then download and install http://www.rabbitmq.com/download.html
 + Enabling the RabbitMQ Web Management Interface:
   In cmd, let's enter: rabbitmq-plugins enable rabbitmq_management
   then type: services.msc, finding RabbitMQ service to restart it.
