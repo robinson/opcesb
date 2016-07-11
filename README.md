@@ -9,9 +9,9 @@ High performance ESB (enterprise service bus) with OPC UA: Masstransit, RabbitMQ
 * Now go to: http://localhost:15672/ then you will see the RabbitMQ web interface.
 
 
-* OPC UA Server: https://github.com/OPCFoundation/UA-.NET/tree/master/SampleApplications/Samples/Server
+2. OPC UA Server: https://github.com/OPCFoundation/UA-.NET/tree/master/SampleApplications/Samples/Server
 
-* OPC UA Publisher: https://github.com/OPCFoundation/UA-.NET/tree/master/SampleApplications/Samples/Publisher
+3. OPC UA Publisher: https://github.com/OPCFoundation/UA-.NET/tree/master/SampleApplications/Samples/Publisher
 In the publisher, it will publish the message to Azure Iot. In here, I made just a minor change in order to publish message to RabbitMQ thru MassTransit.
 
 HOW TO RUN OPC UA SERVER/PUBLISHER: (refer from: https://github.com/OPCFoundation/UA-.UWP-Universal-Windows-Platform/blob/master/README.md)
