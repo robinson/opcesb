@@ -1,4 +1,4 @@
-# OpcEsb
+# OpcEsb (OPC UA + Enterprise Service Bus)
 High performance ESB (enterprise service bus) with OPC UA: Masstransit, RabbitMQ and OPC UA. This is also a Demo OPC UA Pub/Sub and using MassTransit as relay gateway/bridge to receive message from OPC UA Client. 
 
 1. Install Erlang: http://www.erlang.org/download.html
